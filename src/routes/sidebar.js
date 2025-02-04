@@ -35,16 +35,16 @@ const routes = [
     icon: <BriefcaseIcon className={iconClasses}/>,
     name: 'Jobs',
   },
-  {
-    path: '/app/transactions', // url
-    icon: <CurrencyDollarIcon className={iconClasses}/>, // icon component
-    name: 'Transactions', // name that appear in Sidebar
-  },
-  {
-    path: '/app/charts', // url
-    icon: <ChartBarIcon className={iconClasses}/>, // icon component
-    name: 'Analytics', // name that appear in Sidebar
-  },
+  // {
+  //   path: '/app/transactions', // url
+  //   icon: <CurrencyDollarIcon className={iconClasses}/>, // icon component
+  //   name: 'Transactions', // name that appear in Sidebar
+  // },
+  // {
+  //   path: '/app/charts', // url
+  //   icon: <ChartBarIcon className={iconClasses}/>, // icon component
+  //   name: 'Analytics', // name that appear in Sidebar
+  // },
   {
     path: '/app/integration', // url
     icon: <BoltIcon className={iconClasses}/>, // icon component
